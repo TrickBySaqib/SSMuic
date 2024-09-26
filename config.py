@@ -14,7 +14,7 @@ API_HASH = getenv("API_HASH")
 BOT_TOKEN = getenv("BOT_TOKEN")
 
 # Get Your bot username
-BOT_USERNAME = getenv("BOT_USERNAME", "MissBroken_Bot")
+BOT_USERNAME = getenv("BOT_USERNAME", "ll_TEST_ll_Bot")
 
 # Don't Add style font
 BOT_USERNAME2 = getenv("BOT_USERNAME2", "miss Broken")
@@ -40,7 +40,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/badmunda011/PBXMUSIC",
+    "https://github.com/TrickBySaqib/SSMuic",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
